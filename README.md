@@ -2,6 +2,9 @@
 
 參考字 youtube影片 https://www.youtube.com/watch?v=qp0-L_M3Ad4&t=2110s
 
+RWD:
+![image](https://github.com/7Huaa/NextJS_TailwindCSS_web/blob/master/RWD_001.PNG)
+
 ![image](https://github.com/7Huaa/NextJS_TailwindCSS_web/blob/master/Nextjs_home.PNG)
 
 ![image](https://github.com/7Huaa/NextJS_TailwindCSS_web/blob/master/Nextjs_about.PNG)
